@@ -1,0 +1,11 @@
+/Users/noelkirkland/Desktop/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.csprojAssemblyReference.cache
+/Users/noelkirkland/Desktop/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.csproj.CoreCompileInputs.cache
+/Users/noelkirkland/Desktop/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.AssemblyInfoInputs.cache
+/Users/noelkirkland/Desktop/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.AssemblyInfo.cs
+/Users/noelkirkland/Desktop/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.deps.json
+/Users/noelkirkland/Desktop/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.runtimeconfig.json
+/Users/noelkirkland/Desktop/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.runtimeconfig.dev.json
+/Users/noelkirkland/Desktop/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.dll
+/Users/noelkirkland/Desktop/ConsoleApiCall/bin/Debug/netcoreapp2.2/ConsoleApiCall.pdb
+/Users/noelkirkland/Desktop/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.dll
+/Users/noelkirkland/Desktop/ConsoleApiCall/obj/Debug/netcoreapp2.2/ConsoleApiCall.pdb
